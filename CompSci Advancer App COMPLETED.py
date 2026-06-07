@@ -1,5 +1,3 @@
-#Hello, welcome to my code. Please enjoy the read.
-
 #This code is used for my app called "CompSci Advancer".
 
 #this import connects to mysql
