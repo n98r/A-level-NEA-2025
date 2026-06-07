@@ -42,7 +42,7 @@ except Exception as e:
 mydatabase = mysql.connector.connect(
   host="localhost",
   user = "N",
-  password = "RalphLauren15%",
+  password = "{sddeptf",
   database="mydatabase"
 )
 
